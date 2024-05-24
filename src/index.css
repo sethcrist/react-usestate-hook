@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+}
+
+.counter-display {
+  font-size: 8em;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.counter-btn {
+  width: 130px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.472);
+}
+
+.counter-btn:hover {
+  color: black
+}
